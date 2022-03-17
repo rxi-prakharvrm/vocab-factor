@@ -1,0 +1,73 @@
+.slide-menu {
+    width: 20%;
+}
+
+.main-content {
+    width: 50%;
+    overflow: auto;
+}
+
+.main-content-vocab-header {
+    margin-bottom: 10px;
+    color: #062C30;
+}
+
+.main-content-vocab-meaning-eng,
+.main-content-vocab-meaning-hindi,
+.main-content-vocab-synonyms,
+.main-content-vocab-antonyms {
+    margin: 5px 0;
+    color: #0b8363;
+}
+
+.main-content-vocab-meaning-hindi {
+    color: #D22779;
+}
+
+.main-content-vocab-examples-ctr {
+    border: 1px solid #aaa;
+    color: #05595B;
+    padding: 10px 30px;
+    margin: 30px 0;
+    border-radius: 10px;
+}
+
+.main-content-vocab-example {
+    margin: 10px;
+}
+
+.right-side-menu {
+    width: 30%;
+    height: 90vh;
+    position: relative;
+}
+
+.link-img-ctr {
+    height: 70%;
+    width: auto;
+    background-color: #1e2531;
+}
+
+.link-img {
+    height: auto;
+    width: 100%;
+}
+
+.third-party-vocab-platforms {
+    height: 30%;
+    width: 100%;
+    background-color: #1e2531;
+}
+
+.third-party-vocab-platform {
+    font-size: 15px;
+    font-style: italic;
+    text-decoration: none;
+    color: #f1f1f1;
+    display: block;
+    padding: 5px 50px;
+}
+
+.third-party-vocab-platform:hover {
+    background-color: #0b8363;
+}
